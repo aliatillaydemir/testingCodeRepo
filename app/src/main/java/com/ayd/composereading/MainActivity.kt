@@ -70,7 +70,8 @@ fun Sayfa() {
                   )
               }
               Text(text = "Çiçekler özeldir, güzeldir. sevin onları, onlar renk renktir. toprak su ateş bla bla." +
-                      "Çiçekler özeldir, güzeldir. sevin onları, onlar renk renktir. toprak su ateş bla bla.",
+                      "Çiçekler özeldir, güzeldir. sevin onları, onlar renk renktir. toprak su ateş bla bla."+
+                  "deneme deneme deneme deneme çiçek denemesi çiçek",
                   modifier = Modifier.padding(top = 5.dp, end = 10.dp),
                   textAlign = TextAlign.Center
               )
